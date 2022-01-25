@@ -1,6 +1,6 @@
 # タイトル「ボール投げあいゲーム」
 
-https://user-images.githubusercontent.com/10183237/150912398-1b2afb44-0e79-4221-ba8b-5cb2aee5cc0d.mp4
+[![](https://img.youtube.com/vi/SJbY2xn-U54/0.jpg)](https://www.youtube.com/watch?v=SJbY2xn-U54)
 
 （ボールを投げる処理は入っていません）
 
