@@ -27,6 +27,8 @@
 
 ![](https://github.com/massie0414/GG_Ball/blob/master/Screenshots/Ball002.bmp)    
 
+![](https://github.com/massie0414/GG_Ball/blob/master/Screenshots/Ball003.mp4)    
+
 ## ビルド方法
 
 Windows環境で、「WLA-DX」のwla-z80、wlalinkのパスを設定後、「assemble.bat」をダブルクリックすると、ROMデータである「Ball.gg」が出力されます。
