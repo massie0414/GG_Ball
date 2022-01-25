@@ -6,7 +6,7 @@ https://user-images.githubusercontent.com/10183237/150912398-1b2afb44-0e79-4221-
 
 ## ツール「WLA-DX」
 
-## 言語：アセンブラ
+## 言語「アセンブラ」
 
 ## 遊び方
 
