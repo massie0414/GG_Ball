@@ -12,14 +12,20 @@
 
 ・スタートボタンを押すとタイトル画面へ
 
+![](https://github.com/massie0414/GG_Ball/blob/master/Screenshots/Ball000.bmp)    
+
 ### タイトル画面
 
 ・スタートボタンを押すとゲーム画面へ
+
+![](https://github.com/massie0414/GG_Ball/blob/master/Screenshots/Ball001.bmp)    
 
 ### ゲーム画面
 
 ・十字キーで移動  
 ・ボールに近づくと、ボールを持つことができます
+
+![](https://github.com/massie0414/GG_Ball/blob/master/Screenshots/Ball002.bmp)    
 
 ## ビルド方法
 
