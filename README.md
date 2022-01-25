@@ -23,4 +23,4 @@
 
 ## ビルド方法
 
-Windows環境で、「WLA-DX」のwla-z80、wlalinkのパスを設定後、「assemble.bat」をダブルクリックしてください。
+Windows環境で、「WLA-DX」のwla-z80、wlalinkのパスを設定後、「assemble.bat」をダブルクリックすると、ROMデータである「Ball.gg」が出力されます。
