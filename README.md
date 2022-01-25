@@ -1,5 +1,7 @@
 # タイトル「ボール投げあいゲーム」
 
+https://user-images.githubusercontent.com/10183237/150912398-1b2afb44-0e79-4221-ba8b-5cb2aee5cc0d.mp4
+
 （ボールを投げる処理は入っていません）
 
 ## ツール「WLA-DX」
@@ -26,8 +28,6 @@
 ・ボールに近づくと、ボールを持つことができます
 
 ![](https://github.com/massie0414/GG_Ball/blob/master/Screenshots/Ball002.bmp)    
-
-https://user-images.githubusercontent.com/10183237/150912398-1b2afb44-0e79-4221-ba8b-5cb2aee5cc0d.mp4
 
 ## ビルド方法
 
